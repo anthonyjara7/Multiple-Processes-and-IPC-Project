@@ -5,17 +5,22 @@ file.
 
 "CPU.java" - The CPU driver program which fetches and executes
 	     instruction from memory.
+	     
 "Memory.java" - The Memory program which serves to read/write
 		values into/from an array of 2000 integers.
+		
 "sample1.txt" - Input data file which prints out A-Z and 0-9 followed by a newline 
+
 "sample2.txt" - Input data file which prints out a smiley face in the form of 
 		ASCII art
+		
 "sample3.txt" - Input data file which prints out a sequence of A's and numbers
 		where the numbers differ based on the timer interval passed in 
 		command line. A shorter timer would result in faster increments of the
 		numbers while a longer timer would result in shorter increments.
 "sample4.txt" - Input data file which prints out a series of numbers followed by a 
 		user memory violation that prints out to terminal.
+		
 "sample5.txt" - Input data file which prints out the linux penguin in the form of
 		ASCII art utilizing various symbols. Additionally prints out the 
 		statement "Linux Rules!". By altering the value of the timer,
@@ -23,6 +28,7 @@ file.
 		timer value (such as 100) decreases the amount of exclamation marks while a
 		smaller value (for example, 30) increases the amount of exclamation
 		marks printed out.
+		
 "Project Summary" - Detailed description about the focus of the project, how it was
 		    implemented, and my experience throughout the length of the project.
 
