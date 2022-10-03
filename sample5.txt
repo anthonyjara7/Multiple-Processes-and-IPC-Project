@@ -1,0 +1,433 @@
+20	// Jump 
+372
+
+// Print spaces
+14	// CopyToX
+1	// Load 32
+32
+9	// Print space
+2
+26	// Decrement X
+15	// CopyFromX
+22	// Jump if not equal 3
+3
+24	// Return
+
+// First Line
+1	// Load 7
+7
+23	// Call spaces
+2
+1	// Load 46
+46
+9	// Print '.'
+2
+1	// Load 45
+45
+9	// Print '-'
+2
+9	// Print '-'
+2
+9	// Print '-'
+2
+1	// Load 46
+46
+9	// Print '.'
+2
+1	// Load 10
+10
+9	// Print newline
+2
+24	// Return
+
+// Second Line
+1	// Load 6
+6
+23	// Call spaces
+2
+1	// Load 47
+47
+9	// Print '/'
+2
+1	// Load 5
+5
+23	// Call spaces
+2
+1	// Load 92
+92
+9	// Print '\'
+2
+1	// Load 10
+10
+9	// Print newline
+2
+24	// Return
+
+// Third Line
+1	// Load 6
+6
+23	// Call spaces
+2
+1	// Load 92
+92
+9	// Print '\'
+2
+1	// Load 46
+46
+9	// Print '.'
+2
+1	// Load 64
+64
+9	// Print '@'
+2
+1	// Load 45
+45
+9	// Print '-'
+2
+1	// Load 64
+64
+9	// Print '@'
+2
+1	// Load 46
+46
+9	// Print '.'
+2
+1	// Load 47
+47
+9	// Print '/'
+2
+1	// Load 10
+10
+9	// Print newline
+2
+24	// Return
+
+// Fourth Line
+1	// Load 6
+6
+23	// Call spaces
+2
+1	// Load 47
+47
+9	// Print '/'
+2
+1	// Load 96
+96
+9	// Print '''
+2
+1	// Load 92
+92
+9	// Print '\'
+2
+1	// Load 95
+95
+9	// Print '_'
+2
+1	// Load 47
+47
+9	// Print '/'
+2
+1	// Load 96
+96
+9	// Print '''
+2
+1	// Load 92
+92
+9	// Print '\'
+2
+1	// Load 10
+10
+9	// Print newline
+2
+24	// Return
+
+// Fifth line
+1	// Load 5
+5
+23	// Call spaces
+2
+1	// Load 47
+47
+9	// Print '/'
+2
+9	// Print '/'
+2
+1	// Load 2
+2
+23	// Call spaces
+2
+1	// Load 95
+95
+9	// Print '_'
+2
+1	// Load 2
+2
+23	// Call spaces
+2
+1	// Load 92
+92
+9	// Print '\'
+2
+9	// Print '\'
+2
+1	// Load 10
+10
+9	// Print newline
+2
+24	// Return
+
+// Sixth line
+1	// Load 4
+4
+23	// Call spaces
+2
+1	// Load 124
+124
+9	// Print '|'
+2
+1	// Load 1
+1
+23	// Call spaces
+2
+1	// Load 92
+92
+9	// Print '\'
+2
+1	// Load 5
+5
+23	// Call spaces
+2
+1	// Load 41
+41
+9	// Print ')'
+2
+1	// Load 124
+124
+9	// Print '|'
+2
+1	// Load 95
+95
+9	// Print '_'
+2
+1	// Load 10
+10
+9	// Print newline
+2
+24
+
+// Seventh line
+1	// Load 3
+3
+23	// Call spaces
+2
+1	// Load 47
+47
+9	// Print '/'
+2
+1	// Load 96
+96
+9	// Print '''
+2
+1	// Load 92
+92
+9	// Print '\'
+2
+1	// Load 95
+95
+9	// Print '_'
+2
+1	// Load 96
+96
+9	// Print '''
+2
+1	// Load 62
+62
+9	// Print '>'
+2
+1	// Load 2
+2
+23	// Call spaces
+2
+1	// Load 60
+60
+9	// Print '<'
+2
+1	// Load 95
+95
+9	// Print '_'
+2
+1	// Load 47
+47
+9	// Print '/'
+2
+1	// Load 1
+1
+23	// Call spaces
+2
+1	// Load 92
+92
+9	// Print '\'
+2
+1	// Load 10
+10
+9	// Print newline
+2
+24	// Return
+
+// Eighth line
+1	// Load 3
+3
+23	// Call spaces
+2
+1	// Load 92
+92
+9	// Print '\'
+2
+1	// Load 95
+95
+9	// Print '_'
+2
+9	// Print '_'
+2
+1	// Load 47
+47
+9	// Print '/'
+2
+1	// Load 96
+96
+9	// Print '''
+2
+1	// Load 45
+45
+9	// Print '-'
+2
+9	// Print '-'
+2
+9	// Print '-'
+2
+1	// Load 96
+96
+9	// Print '''
+2
+1	// Load 92
+92
+9	// Print '\'
+2
+1	// Load 95
+95
+9	// Print '_'
+2
+9	// Print '_'
+2
+1	// Load 47
+47
+9	// Print '/'
+2
+1	// Load 10
+10
+9	// Print newline
+2
+24
+
+// Ninth line
+1	// Load 4
+4
+23	// Call spaces
+2
+1	// Load 76
+76
+9	// Print 'L'
+2
+1	// Load 105
+105
+9	// Print 'i'
+2
+1	// Load 110
+110
+9	// Print 'n'
+2
+1	// Load 117
+117
+9	// Print 'u'
+2
+1	// Load 120
+120
+9	// Print 'x'
+2
+1	// Load 32
+32
+9	// Print space
+2
+1	// Load 82
+82
+9	// Print 'R'
+2
+1	// Load 117
+117
+9	// Print 'u'
+2
+1	// Load 108
+108
+9	// Print 'l'
+2
+1	// Load 101
+101
+9	// Print 'e'
+2
+1	// Load 115
+115
+9	// Print 's'
+2
+2	// Load addr 700
+700
+14	// CopyToX
+1	// Load 33
+33
+9	// Print '!'
+2
+26	// Decrement X
+15	// CopyFromX
+22	// Jump if not equal 
+363
+24
+
+// Driver program. 23 indices more
+23	// Call first line. 5 indices more
+12
+23	// Call second line. 7 indices more
+37
+23	// Call third line. 9 indices more
+58
+23	// Call fourth line. 11 indices more
+95
+23	// Call fifth line. 13 indices more
+132
+23	// Call sixth line. 15 indices more
+165
+23	// Call seventh line. 17 indices more
+202
+23	// Call eigth line. 19 indices more
+259
+23	// Call ninth line. 21 indices more
+312
+50	// End
+
+.700
+0	// Data
+
+// Timeout
+.1000
+27	// Push AC
+15	// CopyFromX
+27	// Push AC
+2	// Load addr 700
+700
+14	// CopyToX
+25	// Increment X
+15	// CopyFromX
+7	// Store addr 700
+700
+28	// Pop
+14	// CopyToX
+28	// Pop
+30	// Return
